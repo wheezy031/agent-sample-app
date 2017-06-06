@@ -1,3 +1,4 @@
+require('./data/db.js');
 const agentBot = require('./lib/agentBot');
 const readline = require('readline');
 

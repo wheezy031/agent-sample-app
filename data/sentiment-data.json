@@ -1,0 +1,2522 @@
+[
+    {
+        type: "negative",
+        word: "unhappy"
+    },
+    {
+        type: "negative",
+        word: ":("
+    },
+    {
+        type: "negative",
+        word: "abandoned"
+    },
+    {
+        type: "negative",
+        word: "abrasive"
+    },
+    {
+        type: "negative",
+        word: "abrupt"
+    },
+    {
+        type: "negative",
+        word: "abused"
+    },
+    {
+        type: "negative",
+        word: "abusive"
+    },
+    {
+        type: "negative",
+        word: "accuse"
+    },
+    {
+        type: "negative",
+        word: "addicted"
+    },
+    {
+        type: "negative",
+        word: "afraid"
+    },
+    {
+        type: "negative",
+        word: "aggravate"
+    },
+    {
+        type: "negative",
+        word: "aggressive"
+    },
+    {
+        type: "negative",
+        word: "alone"
+    },
+    {
+        type: "negative",
+        word: "aloof"
+    },
+    {
+        type: "negative",
+        word: "ambiguous"
+    },
+    {
+        type: "negative",
+        word: "angry"
+    },
+    {
+        type: "negative",
+        word: "anguish"
+    },
+    {
+        type: "negative",
+        word: "annoyed"
+    },
+    {
+        type: "negative",
+        word: "anxious"
+    },
+    {
+        type: "negative",
+        word: "apprehensive"
+    },
+    {
+        type: "negative",
+        word: "argumentative"
+    },
+    {
+        type: "negative",
+        word: "arrogant"
+    },
+    {
+        type: "negative",
+        word: "artificial"
+    },
+    {
+        type: "negative",
+        word: "ashamed"
+    },
+    {
+        type: "negative",
+        word: "assault"
+    },
+    {
+        type: "negative",
+        word: "asshole"
+    },
+    {
+        type: "negative",
+        word: "arsehole"
+    },
+    {
+        type: "negative",
+        word: "atrocious"
+    },
+    {
+        type: "negative",
+        word: "attack"
+    },
+    {
+        type: "negative",
+        word: "avoid"
+    },
+    {
+        type: "negative",
+        word: "awful"
+    },
+    {
+        type: "negative",
+        word: "awkward"
+    },
+    {
+        type: "negative",
+        word: "bad"
+    },
+    {
+        type: "negative",
+        word: "badger"
+    },
+    {
+        type: "negative",
+        word: "baffled"
+    },
+    {
+        type: "negative",
+        word: "banned"
+    },
+    {
+        type: "negative",
+        word: "barren"
+    },
+    {
+        type: "negative",
+        word: "beat"
+    },
+    {
+        type: "negative",
+        word: "belittle"
+    },
+    {
+        type: "negative",
+        word: "belligerent"
+    },
+    {
+        type: "negative",
+        word: "berated"
+    },
+    {
+        type: "negative",
+        word: "betrayed"
+    },
+    {
+        type: "negative",
+        word: "bewildered"
+    },
+    {
+        type: "negative",
+        word: "bitch"
+    },
+    {
+        type: "negative",
+        word: "bitter"
+    },
+    {
+        type: "negative",
+        word: "bizarre"
+    },
+    {
+        type: "negative",
+        word: "blacklisted"
+    },
+    {
+        type: "negative",
+        word: "blackmailed"
+    },
+    {
+        type: "negative",
+        word: "blame"
+    },
+    {
+        type: "negative",
+        word: "bleak"
+    },
+    {
+        type: "negative",
+        word: "blur"
+    },
+    {
+        type: "negative",
+        word: "bloody"
+    },
+    {
+        type: "negative",
+        word: "boorish"
+    },
+    {
+        type: "negative",
+        word: "bored"
+    },
+    {
+        type: "negative",
+        word: "boring"
+    },
+    {
+        type: "negative",
+        word: "bossy"
+    },
+    {
+        type: "negative",
+        word: "bossed"
+    },
+    {
+        type: "negative",
+        word: "bothered"
+    },
+    {
+        type: "negative",
+        word: "bothersome"
+    },
+    {
+        type: "negative",
+        word: "bounded"
+    },
+    {
+        type: "negative",
+        word: "boxed-in"
+    },
+    {
+        type: "negative",
+        word: "broken"
+    },
+    {
+        type: "negative",
+        word: "bruised"
+    },
+    {
+        type: "negative",
+        word: "bugged"
+    },
+    {
+        type: "negative",
+        word: "bugger"
+    },
+    {
+        type: "negative",
+        word: "bullied"
+    },
+    {
+        type: "negative",
+        word: "bummed"
+    },
+    {
+        type: "negative",
+        word: "burdened"
+    },
+    {
+        type: "negative",
+        word: "burdensome"
+    },
+    {
+        type: "negative",
+        word: "burned"
+    },
+    {
+        type: "negative",
+        word: "caged"
+    },
+    {
+        type: "negative",
+        word: "callous"
+    },
+    {
+        type: "negative",
+        word: "careless"
+    },
+    {
+        type: "negative",
+        word: "chaotic"
+    },
+    {
+        type: "negative",
+        word: "chased"
+    },
+    {
+        type: "negative",
+        word: "cheated"
+    },
+    {
+        type: "negative",
+        word: "claustrophobic"
+    },
+    {
+        type: "negative",
+        word: "clingy"
+    },
+    {
+        type: "negative",
+        word: "closed"
+    },
+    {
+        type: "negative",
+        word: "clueless"
+    },
+    {
+        type: "negative",
+        word: "clumsy"
+    },
+    {
+        type: "negative",
+        word: "coaxed"
+    },
+    {
+        type: "negative",
+        word: "coerced"
+    },
+    {
+        type: "negative",
+        word: "cold"
+    },
+    {
+        type: "negative",
+        word: "combative"
+    },
+    {
+        type: "negative",
+        word: "commanded"
+    },
+    {
+        type: "negative",
+        word: "compared"
+    },
+    {
+        type: "negative",
+        word: "competitive"
+    },
+    {
+        type: "negative",
+        word: "compulsive"
+    },
+    {
+        type: "negative",
+        word: "conceited"
+    },
+    {
+        type: "negative",
+        word: "concerned"
+    },
+    {
+        type: "negative",
+        word: "confined"
+    },
+    {
+        type: "negative",
+        word: "confronted"
+    },
+    {
+        type: "negative",
+        word: "confused"
+    },
+    {
+        type: "negative",
+        word: "conned"
+    },
+    {
+        type: "negative",
+        word: "contemplative"
+    },
+    {
+        type: "negative",
+        word: "contempt"
+    },
+    {
+        type: "negative",
+        word: "contentious"
+    },
+    {
+        type: "negative",
+        word: "controlled"
+    },
+    {
+        type: "negative",
+        word: "convicted"
+    },
+    {
+        type: "negative",
+        word: "cornered"
+    },
+    {
+        type: "negative",
+        word: "corralled"
+    },
+    {
+        type: "negative",
+        word: "cowardly"
+    },
+    {
+        type: "negative",
+        word: "crabby"
+    },
+    {
+        type: "negative",
+        word: "cramped"
+    },
+    {
+        type: "negative",
+        word: "cranky"
+    },
+    {
+        type: "negative",
+        word: "crap"
+    },
+    {
+        type: "negative",
+        word: "crappy"
+    },
+    {
+        type: "negative",
+        word: "crazy"
+    },
+    {
+        type: "negative",
+        word: "creep"
+    },
+    {
+        type: "negative",
+        word: "critical"
+    },
+    {
+        type: "negative",
+        word: "criticized"
+    },
+    {
+        type: "negative",
+        word: "cross"
+    },
+    {
+        type: "negative",
+        word: "crowded"
+    },
+    {
+        type: "negative",
+        word: "cruddy"
+    },
+    {
+        type: "negative",
+        word: "cruel"
+    },
+    {
+        type: "negative",
+        word: "crummy"
+    },
+    {
+        type: "negative",
+        word: "crushed"
+    },
+    {
+        type: "negative",
+        word: "cut"
+    },
+    {
+        type: "negative",
+        word: "cunt"
+    },
+    {
+        type: "negative",
+        word: "cucumber"
+    },
+    {
+        type: "negative",
+        word: "cynical"
+    },
+    {
+        type: "negative",
+        word: "damaged"
+    },
+    {
+        type: "negative",
+        word: "damn"
+    },
+    {
+        type: "negative",
+        word: "dangerous"
+    },
+    {
+        type: "negative",
+        word: "dazed"
+    },
+    {
+        type: "negative",
+        word: "dead"
+    },
+    {
+        type: "negative",
+        word: "deceitful"
+    },
+    {
+        type: "negative",
+        word: "deceived"
+    },
+    {
+        type: "negative",
+        word: "defamed"
+    },
+    {
+        type: "negative",
+        word: "defeated"
+    },
+    {
+        type: "negative",
+        word: "defective"
+    },
+    {
+        type: "negative",
+        word: "defenseless"
+    },
+    {
+        type: "negative",
+        word: "defensive"
+    },
+    {
+        type: "negative",
+        word: "defiant"
+    },
+    {
+        type: "negative",
+        word: "deficient"
+    },
+    {
+        type: "negative",
+        word: "deflated"
+    },
+    {
+        type: "negative",
+        word: "degraded"
+    },
+    {
+        type: "negative",
+        word: "dehumanized"
+    },
+    {
+        type: "negative",
+        word: "dejected"
+    },
+    {
+        type: "negative",
+        word: "deluded"
+    },
+    {
+        type: "negative",
+        word: "demand"
+    },
+    {
+        type: "negative",
+        word: "demean"
+    },
+    {
+        type: "negative",
+        word: "demented"
+    },
+    {
+        type: "negative",
+        word: "demonic"
+    },
+    {
+        type: "negative",
+        word: "demoralized"
+    },
+    {
+        type: "negative",
+        word: "demotivated"
+    },
+    {
+        type: "negative",
+        word: "dependent"
+    },
+    {
+        type: "negative",
+        word: "depleted"
+    },
+    {
+        type: "negative",
+        word: "depraved"
+    },
+    {
+        type: "negative",
+        word: "depressed"
+    },
+    {
+        type: "negative",
+        word: "deprived"
+    },
+    {
+        type: "negative",
+        word: "deranged"
+    },
+    {
+        type: "negative",
+        word: "deserted"
+    },
+    {
+        type: "negative",
+        word: "desolate"
+    },
+    {
+        type: "negative",
+        word: "despair"
+    },
+    {
+        type: "negative",
+        word: "desperate"
+    },
+    {
+        type: "negative",
+        word: "despicable"
+    },
+    {
+        type: "negative",
+        word: "despise"
+    },
+    {
+        type: "negative",
+        word: "destroy"
+    },
+    {
+        type: "negative",
+        word: "destructive"
+    },
+    {
+        type: "negative",
+        word: "detached"
+    },
+    {
+        type: "negative",
+        word: "detest"
+    },
+    {
+        type: "negative",
+        word: "devalue"
+    },
+    {
+        type: "negative",
+        word: "devastated"
+    },
+    {
+        type: "negative",
+        word: "deviant"
+    },
+    {
+        type: "negative",
+        word: "devoid"
+    },
+    {
+        type: "negative",
+        word: "dictated "
+    },
+    {
+        type: "negative",
+        word: "difficult"
+    },
+    {
+        type: "negative",
+        word: "directionless"
+    },
+    {
+        type: "negative",
+        word: "dirty"
+    },
+    {
+        type: "negative",
+        word: "disabled"
+    },
+    {
+        type: "negative",
+        word: "disagreeable"
+    },
+    {
+        type: "negative",
+        word: "disappointed"
+    },
+    {
+        type: "negative",
+        word: "disappointing"
+    },
+    {
+        type: "negative",
+        word: "disapproved of"
+    },
+    {
+        type: "negative",
+        word: "disarray"
+    },
+    {
+        type: "negative",
+        word: "disbelieved"
+    },
+    {
+        type: "negative",
+        word: "discardable"
+    },
+    {
+        type: "negative",
+        word: "discarded"
+    },
+    {
+        type: "negative",
+        word: "disconcerting"
+    },
+    {
+        type: "negative",
+        word: "disconnected"
+    },
+    {
+        type: "negative",
+        word: "disconsolate"
+    },
+    {
+        type: "negative",
+        word: "discontent"
+    },
+    {
+        type: "negative",
+        word: "discouraged"
+    },
+    {
+        type: "negative",
+        word: "discriminated"
+    },
+    {
+        type: "negative",
+        word: "disdain"
+    },
+    {
+        type: "negative",
+        word: "disdainful"
+    },
+    {
+        type: "negative",
+        word: "disempowered"
+    },
+    {
+        type: "negative",
+        word: "disenchanted"
+    },
+    {
+        type: "negative",
+        word: "disgraced"
+    },
+    {
+        type: "negative",
+        word: "disgruntled"
+    },
+    {
+        type: "negative",
+        word: "disgust"
+    },
+    {
+        type: "negative",
+        word: "disgusted"
+    },
+    {
+        type: "negative",
+        word: "disheartened"
+    },
+    {
+        type: "negative",
+        word: "disheveled"
+    },
+    {
+        type: "negative",
+        word: "dishonest"
+    },
+    {
+        type: "negative",
+        word: "dishonorable"
+    },
+    {
+        type: "negative",
+        word: "disillusioned"
+    },
+    {
+        type: "negative",
+        word: "dislike"
+    },
+    {
+        type: "negative",
+        word: "disliked"
+    },
+    {
+        type: "negative",
+        word: "dismal"
+    },
+    {
+        type: "negative",
+        word: "dismantle"
+    },
+    {
+        type: "negative",
+        word: "dismayed"
+    },
+    {
+        type: "negative",
+        word: "disorganized"
+    },
+    {
+        type: "negative",
+        word: "disoriented"
+    },
+    {
+        type: "negative",
+        word: "disowned"
+    },
+    {
+        type: "negative",
+        word: "disparate"
+    },
+    {
+        type: "negative",
+        word: "displeased"
+    },
+    {
+        type: "negative",
+        word: "disposable"
+    },
+    {
+        type: "negative",
+        word: "disregarded"
+    },
+    {
+        type: "negative",
+        word: "disrespected"
+    },
+    {
+        type: "negative",
+        word: "dissatisfied"
+    },
+    {
+        type: "negative",
+        word: "distant"
+    },
+    {
+        type: "negative",
+        word: "distracted"
+    },
+    {
+        type: "negative",
+        word: "distraught"
+    },
+    {
+        type: "negative",
+        word: "distressed"
+    },
+    {
+        type: "negative",
+        word: "disturbed"
+    },
+    {
+        type: "negative",
+        word: "disuse"
+    },
+    {
+        type: "negative",
+        word: "dizzy"
+    },
+    {
+        type: "negative",
+        word: "dominated"
+    },
+    {
+        type: "negative",
+        word: "domineering"
+    },
+    {
+        type: "negative",
+        word: "doomed"
+    },
+    {
+        type: "negative",
+        word: "doubt"
+    },
+    {
+        type: "negative",
+        word: "doubtful"
+    },
+    {
+        type: "negative",
+        word: "draconian"
+    },
+    {
+        type: "negative",
+        word: "drained"
+    },
+    {
+        type: "negative",
+        word: "dramatic"
+    },
+    {
+        type: "negative",
+        word: "dread"
+    },
+    {
+        type: "negative",
+        word: "dreadful"
+    },
+    {
+        type: "negative",
+        word: "dreary"
+    },
+    {
+        type: "negative",
+        word: "dropped"
+    },
+    {
+        type: "negative",
+        word: "drunk"
+    },
+    {
+        type: "negative",
+        word: "dry"
+    },
+    {
+        type: "negative",
+        word: "dumb"
+    },
+    {
+        type: "negative",
+        word: "dumped"
+    },
+    {
+        type: "negative",
+        word: "dumped on"
+    },
+    {
+        type: "negative",
+        word: "duped"
+    },
+    {
+        type: "negative",
+        word: "edgy"
+    },
+    {
+        type: "negative",
+        word: "egocentric"
+    },
+    {
+        type: "negative",
+        word: "egotistic"
+    },
+    {
+        type: "negative",
+        word: "egotistical"
+    },
+    {
+        type: "negative",
+        word: "elusive"
+    },
+    {
+        type: "negative",
+        word: "emasculated"
+    },
+    {
+        type: "negative",
+        word: "embarrassed"
+    },
+    {
+        type: "negative",
+        word: "emotional"
+    },
+    {
+        type: "negative",
+        word: "emotionless"
+    },
+    {
+        type: "negative",
+        word: "empty"
+    },
+    {
+        type: "negative",
+        word: "encumbered"
+    },
+    {
+        type: "negative",
+        word: "endangered"
+    },
+    {
+        type: "negative",
+        word: "enraged"
+    },
+    {
+        type: "negative",
+        word: "enslaved"
+    },
+    {
+        type: "negative",
+        word: "entangled"
+    },
+    {
+        type: "negative",
+        word: "envious"
+    },
+    {
+        type: "negative",
+        word: "erratic"
+    },
+    {
+        type: "negative",
+        word: "evaded"
+    },
+    {
+        type: "negative",
+        word: "evasive"
+    },
+    {
+        type: "negative",
+        word: "evicted"
+    },
+    {
+        type: "negative",
+        word: "evil"
+    },
+    {
+        type: "negative",
+        word: "excessive"
+    },
+    {
+        type: "negative",
+        word: "excluded"
+    },
+    {
+        type: "negative",
+        word: "exhausted"
+    },
+    {
+        type: "negative",
+        word: "exploited"
+    },
+    {
+        type: "negative",
+        word: "exposed"
+    },
+    {
+        type: "negative",
+        word: "faded"
+    },
+    {
+        type: "negative",
+        word: "failful"
+    },
+    {
+        type: "negative",
+        word: "fake"
+    },
+    {
+        type: "negative",
+        word: "false"
+    },
+    {
+        type: "negative",
+        word: "fanatical"
+    },
+    {
+        type: "negative",
+        word: "fear"
+    },
+    {
+        type: "negative",
+        word: "fearful"
+    },
+    {
+        type: "negative",
+        word: "feckless"
+    },
+    {
+        type: "negative",
+        word: "fierce"
+    },
+    {
+        type: "negative",
+        word: "filthy"
+    },
+    {
+        type: "negative",
+        word: "finicky"
+    },
+    {
+        type: "negative",
+        word: "flashy"
+    },
+    {
+        type: "negative",
+        word: "flawed"
+    },
+    {
+        type: "negative",
+        word: "flippant"
+    },
+    {
+        type: "negative",
+        word: "foolish"
+    },
+    {
+        type: "negative",
+        word: "forced"
+    },
+    {
+        type: "negative",
+        word: "forgetful"
+    },
+    {
+        type: "negative",
+        word: "forgettable"
+    },
+    {
+        type: "negative",
+        word: "forgotten"
+    },
+    {
+        type: "negative",
+        word: "fragile"
+    },
+    {
+        type: "negative",
+        word: "frantic"
+    },
+    {
+        type: "negative",
+        word: "freaking"
+    },
+    {
+        type: "negative",
+        word: "fretful"
+    },
+    {
+        type: "negative",
+        word: "frightened"
+    },
+    {
+        type: "negative",
+        word: "frigid"
+    },
+    {
+        type: "negative",
+        word: "frustrated"
+    },
+    {
+        type: "negative",
+        word: "furious"
+    },
+    {
+        type: "negative",
+        word: "furtive"
+    },
+    {
+        type: "negative",
+        word: "fuck"
+    },
+    {
+        type: "negative",
+        word: "fucked"
+    },
+    {
+        type: "negative",
+        word: "fucking"
+    },
+    {
+        type: "negative",
+        word: "gloomy"
+    },
+    {
+        type: "negative",
+        word: "glum"
+    },
+    {
+        type: "negative",
+        word: "gormless"
+    },
+    {
+        type: "negative",
+        word: "gothic"
+    },
+    {
+        type: "negative",
+        word: "greedy"
+    },
+    {
+        type: "negative",
+        word: "grief"
+    },
+    {
+        type: "negative",
+        word: "grieving"
+    },
+    {
+        type: "negative",
+        word: "grim"
+    },
+    {
+        type: "negative",
+        word: "gross"
+    },
+    {
+        type: "negative",
+        word: "grossed-out"
+    },
+    {
+        type: "negative",
+        word: "grotesque"
+    },
+    {
+        type: "negative",
+        word: "grouchy"
+    },
+    {
+        type: "negative",
+        word: "grounded"
+    },
+    {
+        type: "negative",
+        word: "gruesome"
+    },
+    {
+        type: "negative",
+        word: "grumpy"
+    },
+    {
+        type: "negative",
+        word: "guarded"
+    },
+    {
+        type: "negative",
+        word: "guilt"
+    },
+    {
+        type: "negative",
+        word: "gullible"
+    },
+    {
+        type: "negative",
+        word: "harassed"
+    },
+    {
+        type: "negative",
+        word: "harmed"
+    },
+    {
+        type: "negative",
+        word: "hassled"
+    },
+    {
+        type: "negative",
+        word: "hate"
+    },
+    {
+        type: "negative",
+        word: "hateful"
+    },
+    {
+        type: "negative",
+        word: "hatred"
+    },
+    {
+        type: "negative",
+        word: "haunted"
+    },
+    {
+        type: "negative",
+        word: "heartbroken"
+    },
+    {
+        type: "negative",
+        word: "heartless"
+    },
+    {
+        type: "negative",
+        word: "heavy-hearted"
+    },
+    {
+        type: "negative",
+        word: "helpless"
+    },
+    {
+        type: "negative",
+        word: "hell"
+    },
+    {
+        type: "negative",
+        word: "hesitant"
+    },
+    {
+        type: "negative",
+        word: "hesitant"
+    },
+    {
+        type: "negative",
+        word: "hideous"
+    },
+    {
+        type: "negative",
+        word: "hindered"
+    },
+    {
+        type: "negative",
+        word: "homeless"
+    },
+    {
+        type: "negative",
+        word: "hopeless"
+    },
+    {
+        type: "negative",
+        word: "horrible"
+    },
+    {
+        type: "negative",
+        word: "horrified"
+    },
+    {
+        type: "negative",
+        word: "horror"
+    },
+    {
+        type: "negative",
+        word: "hostile"
+    },
+    {
+        type: "negative",
+        word: "hot-tempered"
+    },
+    {
+        type: "negative",
+        word: "humiliated"
+    },
+    {
+        type: "negative",
+        word: "hurried"
+    },
+    {
+        type: "negative",
+        word: "hurt"
+    },
+    {
+        type: "negative",
+        word: "hysterical"
+    },
+    {
+        type: "negative",
+        word: "idiotic"
+    },
+    {
+        type: "negative",
+        word: "ignorant"
+    },
+    {
+        type: "negative",
+        word: "ignored"
+    },
+    {
+        type: "negative",
+        word: "imbalanced"
+    },
+    {
+        type: "negative",
+        word: "immaculate"
+    },
+    {
+        type: "negative",
+        word: "impeccable"
+    },
+    {
+        type: "negative",
+        word: "impetuous"
+    },
+    {
+        type: "negative",
+        word: "imposed"
+    },
+    {
+        type: "negative",
+        word: "imposing"
+    },
+    {
+        type: "negative",
+        word: "impotent"
+    },
+    {
+        type: "negative",
+        word: "imprisoned"
+    },
+    {
+        type: "negative",
+        word: "impromptu"
+    },
+    {
+        type: "negative",
+        word: "impulsive"
+    },
+    {
+        type: "negative",
+        word: "inadequate"
+    },
+    {
+        type: "negative",
+        word: "inadvertent"
+    },
+    {
+        type: "negative",
+        word: "inane"
+    },
+    {
+        type: "negative",
+        word: "incapable"
+    },
+    {
+        type: "negative",
+        word: "incapacitated"
+    },
+    {
+        type: "negative",
+        word: "incessant"
+    },
+    {
+        type: "negative",
+        word: "inchoate"
+    },
+    {
+        type: "negative",
+        word: "incognito"
+    },
+    {
+        type: "negative",
+        word: "incommunicado"
+    },
+    {
+        type: "negative",
+        word: "incommunicative"
+    },
+    {
+        type: "negative",
+        word: "incompatible"
+    },
+    {
+        type: "negative",
+        word: "incompetent"
+    },
+    {
+        type: "negative",
+        word: "incomplete"
+    },
+    {
+        type: "negative",
+        word: "incorrigible"
+    },
+    {
+        type: "negative",
+        word: "indecisive"
+    },
+    {
+        type: "negative",
+        word: "indifferent"
+    },
+    {
+        type: "negative",
+        word: "indoctrinated"
+    },
+    {
+        type: "negative",
+        word: "indomitable"
+    },
+    {
+        type: "negative",
+        word: "inebriated"
+    },
+    {
+        type: "negative",
+        word: "ineffable"
+    },
+    {
+        type: "negative",
+        word: "ineffective"
+    },
+    {
+        type: "negative",
+        word: "inefficient"
+    },
+    {
+        type: "negative",
+        word: "inept"
+    },
+    {
+        type: "negative",
+        word: "inert"
+    },
+    {
+        type: "negative",
+        word: "inevitable"
+    },
+    {
+        type: "negative",
+        word: "inferior"
+    },
+    {
+        type: "negative",
+        word: "infernal"
+    },
+    {
+        type: "negative",
+        word: "infuriated"
+    },
+    {
+        type: "negative",
+        word: "inhibited"
+    },
+    {
+        type: "negative",
+        word: "inhumane"
+    },
+    {
+        type: "negative",
+        word: "injured"
+    },
+    {
+        type: "negative",
+        word: "injustice"
+    },
+    {
+        type: "negative",
+        word: "innocent"
+    },
+    {
+        type: "negative",
+        word: "innocuous"
+    },
+    {
+        type: "negative",
+        word: "insane"
+    },
+    {
+        type: "negative",
+        word: "inscrutable"
+    },
+    {
+        type: "negative",
+        word: "insecure"
+    },
+    {
+        type: "negative",
+        word: "insensate"
+    },
+    {
+        type: "negative",
+        word: "insidious"
+    },
+    {
+        type: "negative",
+        word: "insignificant"
+    },
+    {
+        type: "negative",
+        word: "insincere"
+    },
+    {
+        type: "negative",
+        word: "insipid"
+    },
+    {
+        type: "negative",
+        word: "insouciant"
+    },
+    {
+        type: "negative",
+        word: "insufferable"
+    },
+    {
+        type: "negative",
+        word: "insufficient"
+    },
+    {
+        type: "negative",
+        word: "insulted"
+    },
+    {
+        type: "negative",
+        word: "intact"
+    },
+    {
+        type: "negative",
+        word: "intense"
+    },
+    {
+        type: "negative",
+        word: "interminable"
+    },
+    {
+        type: "negative",
+        word: "interrogated"
+    },
+    {
+        type: "negative",
+        word: "interrupted"
+    },
+    {
+        type: "negative",
+        word: "intimidated"
+    },
+    {
+        type: "negative",
+        word: "intoxicated"
+    },
+    {
+        type: "negative",
+        word: "invaded"
+    },
+    {
+        type: "negative",
+        word: "invalidated"
+    },
+    {
+        type: "negative",
+        word: "invert"
+    },
+    {
+        type: "negative",
+        word: "invisible"
+    },
+    {
+        type: "negative",
+        word: "irrational"
+    },
+    {
+        type: "negative",
+        word: "irresolute"
+    },
+    {
+        type: "negative",
+        word: "irritable"
+    },
+    {
+        type: "negative",
+        word: "irritated"
+    },
+    {
+        type: "negative",
+        word: "isolated"
+    },
+    {
+        type: "negative",
+        word: "jaded"
+    },
+    {
+        type: "negative",
+        word: "jealous"
+    },
+    {
+        type: "negative",
+        word: "jerked"
+    },
+    {
+        type: "negative",
+        word: "jittery"
+    },
+    {
+        type: "negative",
+        word: "joyless"
+    },
+    {
+        type: "negative",
+        word: "judged"
+    },
+    {
+        type: "negative",
+        word: "labeled"
+    },
+    {
+        type: "negative",
+        word: "lacking"
+    },
+    {
+        type: "negative",
+        word: "laughable"
+    },
+    {
+        type: "negative",
+        word: "lazy"
+    },
+    {
+        type: "negative",
+        word: "lectured"
+    },
+    {
+        type: "negative",
+        word: "lied"
+    },
+    {
+        type: "negative",
+        word: "lie"
+    },
+    {
+        type: "negative",
+        word: "limited"
+    },
+    {
+        type: "negative",
+        word: "lonely"
+    },
+    {
+        type: "negative",
+        word: "lonesome"
+    },
+    {
+        type: "negative",
+        word: "lousy"
+    },
+    {
+        type: "negative",
+        word: "loveless"
+    },
+    {
+        type: "negative",
+        word: "malicious"
+    },
+    {
+        type: "negative",
+        word: "manipulated"
+    },
+    {
+        type: "negative",
+        word: "masochistic"
+    },
+    {
+        type: "negative",
+        word: "materialistic"
+    },
+    {
+        type: "negative",
+        word: "miffed"
+    },
+    {
+        type: "negative",
+        word: "miserable"
+    },
+    {
+        type: "negative",
+        word: "misgivings"
+    },
+    {
+        type: "negative",
+        word: "misled"
+    },
+    {
+        type: "negative",
+        word: "misnomer"
+    },
+    {
+        type: "negative",
+        word: "mistaken"
+    },
+    {
+        type: "negative",
+        word: "mistreated"
+    },
+    {
+        type: "negative",
+        word: "mistrusted"
+    },
+    {
+        type: "negative",
+        word: "misunderstood"
+    },
+    {
+        type: "negative",
+        word: "mixed-up"
+    },
+    {
+        type: "negative",
+        word: "mocked"
+    },
+    {
+        type: "negative",
+        word: "molested"
+    },
+    {
+        type: "negative",
+        word: "moody"
+    },
+    {
+        type: "negative",
+        word: "mysterious"
+    },
+    {
+        type: "negative",
+        word: "nagged"
+    },
+    {
+        type: "negative",
+        word: "naive"
+    },
+    {
+        type: "negative",
+        word: "nasty"
+    },
+    {
+        type: "negative",
+        word: "naughty"
+    },
+    {
+        type: "negative",
+        word: "needy"
+    },
+    {
+        type: "negative",
+        word: "negative"
+    },
+    {
+        type: "negative",
+        word: "neglected"
+    },
+    {
+        type: "negative",
+        word: "nervous"
+    },
+    {
+        type: "negative",
+        word: "neurotic"
+    },
+    {
+        type: "negative",
+        word: "noisy"
+    },
+    {
+        type: "negative",
+        word: "nonchalant"
+    },
+    {
+        type: "negative",
+        word: "noncommittal"
+    },
+    {
+        type: "negative",
+        word: "nonconforming"
+    },
+    {
+        type: "negative",
+        word: "nondescript"
+    },
+    {
+        type: "negative",
+        word: "nonpareil"
+    },
+    {
+        type: "negative",
+        word: "nonplussed"
+    },
+    {
+        type: "negative",
+        word: "numb"
+    },
+    {
+        type: "negative",
+        word: "nuts"
+    },
+    {
+        type: "negative",
+        word: "nutty"
+    },
+    {
+        type: "negative",
+        word: "objectified"
+    },
+    {
+        type: "negative",
+        word: "obligated"
+    },
+    {
+        type: "negative",
+        word: "obnoxious"
+    },
+    {
+        type: "negative",
+        word: "obsessed"
+    },
+    {
+        type: "negative",
+        word: "obsessive"
+    },
+    {
+        type: "negative",
+        word: "obstructed"
+    },
+    {
+        type: "negative",
+        word: "offended"
+    },
+    {
+        type: "negative",
+        word: "opposed"
+    },
+    {
+        type: "negative",
+        word: "oppressed"
+    },
+    {
+        type: "negative",
+        word: "outrageous"
+    },
+    {
+        type: "negative",
+        word: "pain"
+    },
+    {
+        type: "negative",
+        word: "panic"
+    },
+    {
+        type: "negative",
+        word: "panicky"
+    },
+    {
+        type: "negative",
+        word: "paranoid"
+    },
+    {
+        type: "negative",
+        word: "passive"
+    },
+    {
+        type: "negative",
+        word: "pathetic"
+    },
+    {
+        type: "negative",
+        word: "pessimistic"
+    },
+    {
+        type: "negative",
+        word: "petrified"
+    },
+    {
+        type: "negative",
+        word: "phony"
+    },
+    {
+        type: "negative",
+        word: "pissed"
+    },
+    {
+        type: "negative",
+        word: "pooped"
+    },
+    {
+        type: "negative",
+        word: "possessive"
+    },
+    {
+        type: "negative",
+        word: "powerless"
+    },
+    {
+        type: "negative",
+        word: "predjudice"
+    },
+    {
+        type: "negative",
+        word: "preoccupied"
+    },
+    {
+        type: "negative",
+        word: "pressured"
+    },
+    {
+        type: "negative",
+        word: "prosecuted"
+    },
+    {
+        type: "negative",
+        word: "provoked"
+    },
+    {
+        type: "negative",
+        word: "psychopathic"
+    },
+    {
+        type: "negative",
+        word: "psychotic"
+    },
+    {
+        type: "negative",
+        word: "punished"
+    },
+    {
+        type: "negative",
+        word: "puzzled"
+    },
+    {
+        type: "negative",
+        word: "quarrelsome"
+    },
+    {
+        type: "negative",
+        word: "queer"
+    },
+    {
+        type: "negative",
+        word: "questioned"
+    },
+    {
+        type: "negative",
+        word: "quiet"
+    },
+    {
+        type: "negative",
+        word: "rage"
+    },
+    {
+        type: "negative",
+        word: "raped"
+    },
+    {
+        type: "negative",
+        word: "rattled"
+    },
+    {
+        type: "negative",
+        word: "reckless"
+    },
+    {
+        type: "negative",
+        word: "regret"
+    },
+    {
+        type: "negative",
+        word: "rejected"
+    },
+    {
+        type: "negative",
+        word: "repulsive"
+    },
+    {
+        type: "negative",
+        word: "resented"
+    },
+    {
+        type: "negative",
+        word: "resentful"
+    },
+    {
+        type: "negative",
+        word: "responsible"
+    },
+    {
+        type: "negative",
+        word: "restricted"
+    },
+    {
+        type: "negative",
+        word: "retarded"
+    },
+    {
+        type: "negative",
+        word: "revengeful"
+    },
+    {
+        type: "negative",
+        word: "ridiculed"
+    },
+    {
+        type: "negative",
+        word: "ridiculous"
+    },
+    {
+        type: "negative",
+        word: "risk"
+    },
+    {
+        type: "negative",
+        word: "robbed"
+    },
+    {
+        type: "negative",
+        word: "rotten"
+    },
+    {
+        type: "negative",
+        word: "ruthless"
+    },
+    {
+        type: "negative",
+        word: "sad"
+    },
+    {
+        type: "negative",
+        word: "sadistic"
+    },
+    {
+        type: "negative",
+        word: "sarcastic"
+    },
+    {
+        type: "negative",
+        word: "scared"
+    },
+    {
+        type: "negative",
+        word: "scarred"
+    },
+    {
+        type: "negative",
+        word: "scary"
+    },
+    {
+        type: "negative",
+        word: "screwed"
+    },
+    {
+        type: "negative",
+        word: "secretive"
+    },
+    {
+        type: "negative",
+        word: "selfish"
+    },
+    {
+        type: "negative",
+        word: "sensitive"
+    },
+    {
+        type: "negative",
+        word: "shouting"
+    },
+    {
+        type: "negative",
+        word: "shit"
+    },
+    {
+        type: "negative",
+        word: "shitty"
+    },
+    {
+        type: "negative",
+        word: "silly"
+    },
+    {
+        type: "negative",
+        word: "skeptical"
+    },
+    {
+        type: "negative",
+        word: "slow"
+    },
+    {
+        type: "negative",
+        word: "smothered"
+    },
+    {
+        type: "negative",
+        word: "snapped"
+    },
+    {
+        type: "negative",
+        word: "sneaky"
+    },
+    {
+        type: "negative",
+        word: "snobbish"
+    },
+    {
+        type: "negative",
+        word: "spiteful"
+    },
+    {
+        type: "negative",
+        word: "squeamish"
+    },
+    {
+        type: "negative",
+        word: "stereotyped"
+    },
+    {
+        type: "negative",
+        word: "stingy"
+    },
+    {
+        type: "negative",
+        word: "stressed"
+    },
+    {
+        type: "negative",
+        word: "stuck"
+    },
+    {
+        type: "negative",
+        word: "stupid"
+    },
+    {
+        type: "negative",
+        word: "submissive"
+    },
+    {
+        type: "negative",
+        word: "suffering"
+    },
+    {
+        type: "negative",
+        word: "suffocated"
+    },
+    {
+        type: "negative",
+        word: "suicidal"
+    },
+    {
+        type: "negative",
+        word: "suck"
+    },
+    {
+        type: "negative",
+        word: "sulky"
+    },
+    {
+        type: "negative",
+        word: "superficial"
+    },
+    {
+        type: "negative",
+        word: "suppressed"
+    },
+    {
+        type: "negative",
+        word: "suspicious"
+    },
+    {
+        type: "negative",
+        word: "tacky"
+    },
+    {
+        type: "negative",
+        word: "teased"
+    },
+    {
+        type: "negative",
+        word: "tense"
+    },
+    {
+        type: "negative",
+        word: "terrible"
+    },
+    {
+        type: "negative",
+        word: "terrified"
+    },
+    {
+        type: "negative",
+        word: "testy"
+    },
+    {
+        type: "negative",
+        word: "thoughtless"
+    },
+    {
+        type: "negative",
+        word: "threatened"
+    },
+    {
+        type: "negative",
+        word: "threatening"
+    },
+    {
+        type: "negative",
+        word: "tired"
+    },
+    {
+        type: "negative",
+        word: "tiresome"
+    },
+    {
+        type: "negative",
+        word: "trapped"
+    },
+    {
+        type: "negative",
+        word: "troubled"
+    },
+    {
+        type: "negative",
+        word: "truculent"
+    },
+    {
+        type: "negative",
+        word: "typical"
+    },
+    {
+        type: "negative",
+        word: "unbeknownst"
+    },
+    {
+        type: "negative",
+        word: "unbridled"
+    },
+    {
+        type: "negative",
+        word: "uncouth"
+    },
+    {
+        type: "negative",
+        word: "underestimated"
+    },
+    {
+        type: "negative",
+        word: "under-protected"
+    },
+    {
+        type: "negative",
+        word: "undesirable"
+    },
+    {
+        type: "negative",
+        word: "unflappable"
+    },
+    {
+        type: "negative",
+        word: "unfurl"
+    },
+    {
+        type: "negative",
+        word: "ungainly"
+    },
+    {
+        type: "negative",
+        word: "unheard"
+    },
+    {
+        type: "negative",
+        word: "unimportant"
+    },
+    {
+        type: "negative",
+        word: "uninformed"
+    },
+    {
+        type: "negative",
+        word: "unkempt"
+    },
+    {
+        type: "negative",
+        word: "unknown"
+    },
+    {
+        type: "negative",
+        word: "unloved"
+    },
+    {
+        type: "negative",
+        word: "unmitigated"
+    },
+    {
+        type: "negative",
+        word: "unnerved"
+    },
+    {
+        type: "negative",
+        word: "unrequited"
+    },
+    {
+        type: "negative",
+        word: "unruly"
+    },
+    {
+        type: "negative",
+        word: "unsafe"
+    },
+    {
+        type: "negative",
+        word: "unscathed"
+    },
+    {
+        type: "negative",
+        word: "unsuitable"
+    },
+    {
+        type: "negative",
+        word: "unsupported"
+    },
+    {
+        type: "negative",
+        word: "unswerving"
+    },
+    {
+        type: "negative",
+        word: "unthinkable"
+    },
+    {
+        type: "negative",
+        word: "untoward"
+    },
+    {
+        type: "negative",
+        word: "untrusted"
+    },
+    {
+        type: "negative",
+        word: "untrusting"
+    },
+    {
+        type: "negative",
+        word: "unwanted"
+    },
+    {
+        type: "negative",
+        word: "unwieldy"
+    },
+    {
+        type: "negative",
+        word: "upset"
+    },
+    {
+        type: "negative",
+        word: "uptight"
+    },
+    {
+        type: "negative",
+        word: "vague"
+    },
+    {
+        type: "negative",
+        word: "vengeful"
+    },
+    {
+        type: "negative",
+        word: "venomous"
+    },
+    {
+        type: "negative",
+        word: "violated"
+    },
+    {
+        type: "negative",
+        word: "volatile"
+    },
+    {
+        type: "negative",
+        word: "voracious"
+    },
+    {
+        type: "negative",
+        word: "vulgar"
+    },
+    {
+        type: "negative",
+        word: "wary"
+    },
+    {
+        type: "negative",
+        word: "wasteful"
+    },
+    {
+        type: "negative",
+        word: "weak"
+    },
+    {
+        type: "negative",
+        word: "weary"
+    },
+    {
+        type: "negative",
+        word: "wicked"
+    },
+    {
+        type: "negative",
+        word: "worried"
+    },
+    {
+        type: "negative",
+        word: "worthless"
+    },
+    {
+        type: "negative",
+        word: "wretched"
+    },
+    {
+        type: "negative",
+        word: "分からない"
+    },
+    {
+        type: "negative",
+        word: "わからない"
+    },
+    {
+        type: "negative",
+        word: "オペレーターにかわって"
+    },
+    {
+        type: "negative",
+        word: "もういいです"
+    },
+    {
+        type: "negative",
+        word: "嫌"
+    },
+    {
+        type: "negative",
+        word: "はい"
+    },
+    {
+        type: "negative",
+        word: "教えて"
+    }
+]

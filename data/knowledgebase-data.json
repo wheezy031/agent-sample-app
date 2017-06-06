@@ -1,0 +1,106 @@
+[
+    {
+        "keyword": "iphone",
+        "response": "the new iPhone is available September 20, have you checked out the video to see what is new?: @youtube: iPhone 7"
+    },
+    {
+        "keyword": "error",
+        "response": "have you tried looking at the following video? @youtube: reset network settings iphone"
+    },
+    {
+        "keyword": "owing",
+        "response": "you have $0.00 owing on your account"
+    },
+    {
+        "keyword": "cat",
+        "response": "yes, i love cats"
+    },
+    {
+        "keyword": "down",
+        "response": "yes, we can see that there are issues in your area that should be resolved within the next 24 hours"
+    },
+    {
+        "keyword": "password",
+        "response": "I can help you reset your password, please enter your new password below:"
+    },
+    {
+        "keyword": "balance",
+        "response": "you currently have a balance of $5346.00"
+    },
+    {
+        "keyword": "broke",
+        "response": "that is no good to hear, a technician can possibly look at that in our CBD store tomorrow"
+    },
+    {
+        "keyword": "hi",
+        "response": "hi there, how may I assist?"
+    },
+    {
+        "keyword": "data",
+        "response": "you have 17.3mb remaining on your data"
+    },
+    {
+        "keyword": "pay",
+        "response": "if you would like to pay online you can do so through your account portal - and then select pay my bill"
+    },
+    {
+        "keyword": "yes",
+        "response": "excellent, the order is now underway - order reference number 87543747543-452"
+    },
+    {
+        "keyword": "upgrade",
+        "response": "no problems, would you the new iPhone? @youtube: iPhone 7"
+    },
+    {
+        "keyword": "cheel",
+        "response": "thanks, I have updated your address in our system to 11 Cheel St, Armadale, VIC 3143"
+    },
+    {
+        "keyword": "excellent",
+        "response": "thanks :) is there anything else?"
+    },
+    {
+        "keyword": "******",
+        "response": "I have updated your password and you can now proceed to login with your new changed password"
+    },
+    {
+        "keyword": "fix",
+        "response": "that is no good to hear, a technician can possibly look at that in our CBD store tomorrow"
+    },
+    {
+        "keyword": "transfer",
+        "response": "transfer"
+    },
+    {
+        "keyword": "bill",
+        "response": "currently your bill is at $0.00"
+    },
+    {
+        "keyword": "thanks",
+        "response": "no problems at at all :)"
+    },
+    {
+        "keyword": "hey",
+        "response": "hi there, how may I assist?"
+    },
+    {
+        "keyword": "address",
+        "response": "no problems, what is your new address?"
+    },
+    {
+        "keyword": "owe",
+        "response": "you have $0.00 owing on your account"
+    },
+    {
+        "keyword": "こんにちは",
+        "response": "お問い合わせいただき、ありがとうございます。<br>次の中から、お問い合わせ番号をお選びください。<br>1. 契約内容について<br>2. 各種手続き、変更<br>3. 設定方法について<br>4. 請求書の確認<br>5. キャンペーンについて"
+    },
+    {
+        "keyword": "料金プラン",
+        "response": "はい！料金キャンペーンのページをご案内します。<br><a href='http://www.liveperson.com/' target='_blank'>www.liveperson.price.campaign.com</a><br>いかがでしょうか？お得な料金プランになっています！"
+    },
+    {
+        "keyword": "教えて",
+        "response": "はい！それでは担当におつなぎしますので、しばらくお待ちください。"
+    }
+]

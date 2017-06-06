@@ -34,3 +34,8 @@ node_modules
 
 *.iml
 
+*.csv
+
+# MongoDB backup locations
+#*-data.json
+backup
