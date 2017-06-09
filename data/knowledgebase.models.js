@@ -12,4 +12,4 @@ var KnowledgeBaseSchema = new mongoose.Schema({
     }
 });
 
-mongoose.model('KnowledgeBase', KnowledgeBaseSchema);
+mongoose.model('KnowledgeBase', KnowledgeBaseSchema, 'knowledgebase');

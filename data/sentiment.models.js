@@ -12,4 +12,4 @@ var SentimentSchema = new mongoose.Schema({
   }
 });
 
-mongoose.model('Sentiment', SentimentSchema);
+mongoose.model('Sentiment', SentimentSchema, 'sentiment');
